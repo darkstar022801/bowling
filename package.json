@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "bowling": "npx ts-node src/main.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.6.3",
+    "ts-node": "^10.9.1"
+  }
+}
